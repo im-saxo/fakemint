@@ -1,0 +1,23 @@
+{
+  "name": "fakemint",
+  "version": "1.0.0",
+  "description": "Mint or not? That is the question.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-saxo/fakemint.git"
+  },
+  "author": "Vladimir Demidov <vladimir.dem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/im-saxo/fakemint/issues"
+  },
+  "homepage": "https://github.com/im-saxo/fakemint#readme",
+  "devDependencies": {
+    "local-web-server": "^2.6.1"
+  }
+}
